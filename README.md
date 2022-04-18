@@ -4,6 +4,11 @@
 
 ⚠️ 不熟悉的朋友，请先熟读 [OpenCore Install Guide](https://dortania.github.io/OpenCore-Install-Guide/) 然后再动手。
 
+## 老规矩先上图
+<img src="PIC/z490i-1.png" width="1000" alt="UHD630-DP-HDMI"/>
+<img src="PIC/z490i-2.png" width="1000" alt="UHD630-DP-HDMI"/>
+<img src="PIC/z490i-3.png" width="1000" alt="UHD630-DP-HDMI"/>
+<img src="PIC/z490i-4.png" width="1000" alt="UHD630-DP-HDMI"/>
 
 ## 硬件配置
 
